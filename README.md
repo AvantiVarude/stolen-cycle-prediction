@@ -1,6 +1,6 @@
 # stolen-cycle-prediction
+<span style="font-size: 18px;">Overview</span>
 
-Overview
 This project aims to predict the likelihood of a bicycle getting stolen on the IIT Jodhpur campus. We use a machine learning classification algorithm, specifically logistic regression, to make these predictions. The dataset includes various features related to the bicycles, such as whether they are gear or non-gear, mountain or road cycles, the cycle company, and the price.
 
 Dataset
